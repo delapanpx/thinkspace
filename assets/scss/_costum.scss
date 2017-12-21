@@ -1,0 +1,50 @@
+hr {
+  display: block;
+  border: 0;
+  text-align: center;
+  overflow: visible;
+}
+hr:before{
+  content: '...';
+  display: inline-block;
+  margin-left: .6em;
+  color: rgba(0,0,0,.68);
+  position: relative;
+  letter-spacing: 0.2rem;
+}
+
+p{
+  margin: 0 0 $base-spacing; 
+}
+
+h3{
+  margin: $base-spacing 0 $small-spacing 0;
+}
+
+figure {
+  margin: $base-spacing auto;
+}
+figcaption {
+  text-align: center;
+  font-size: smaller;
+}
+
+.video-holder {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 56.25%;
+  overflow: hidden;
+  iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    margin: 0 !important;
+  }
+}
+
+blockquote p {
+    padding: $small-spacing 0 $small-spacing 0;
+}
