@@ -1,4 +1,4 @@
---
+---
 layout: post
 title: Gerbong Khusus Wanita
 cover: /assets/images/gerbong-khusus-wanita/gerbong-wanita.jpg
