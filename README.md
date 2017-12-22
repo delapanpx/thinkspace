@@ -26,6 +26,12 @@ Store images on `/assets/images/title` folder just like post.
 {% include image.html name="image.jpg" caption="CAPTION" %}
 ```
 
+### Font Awesome Icon
+
+[Icons](http://fontawesome.io/icons/)   
+
+[cheatsheet](http://fontawesome.io/cheatsheet/)   
+
 ## Screenshot
 
 ![Thinkspace Screenshot](http://i.imgur.com/IMQDB9e.png)
