@@ -21,12 +21,10 @@ h3{
   margin: $base-spacing 0 $small-spacing 0;
 }
 
-figure {
-  margin: $base-spacing auto;
-}
 figcaption {
   text-align: center;
   font-size: smaller;
+  padding: $small-spacing 0 $base-spacing 0;
 }
 
 .video-holder {
