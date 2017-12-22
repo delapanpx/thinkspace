@@ -5,9 +5,9 @@ description: "Dulu saya selalu skeptis terhadap kamera smartphone, apalagi untuk
 cover: /assets/images/cucian.jpg
 ---
 
-Sebelumnya saya selalu skeptis terhadap kamera *smartphone*, bahkan dulu waktu saya punya iPhone 4, saya tidak terlalu menganggap serius fitur kameranya. Saya hanya menggunakan kamera iPhone 4 dulu untuk memotret dokumen, hal-hal yang perlu diingat, pokoknya waktu itu saya tidak serius menggunakan kamera iPhone 4 untuk memotret (sebagai pengganti DSRL) bahkan untuk memotret *street photography*.
+Sebelumnya saya selalu skeptis terhadap kamera *smartphone*, bahkan dulu waktu saya punya iPhone 4, saya tidak terlalu menganggap serius fitur kameranya. Saya hanya menggunakan kamera iPhone 4 dulu untuk memotret dokumen, hal-hal yang perlu diingat, pokoknya waktu itu saya tidak serius menggunakan kamera iPhone 4 untuk memotret sebagai pengganti DSRL, bahkan untuk memotret *street photography*.
 
-Sampai akhirnya saya banyak mengenal fotografer atau mentor fotografi yang menggunakan iPhone-nya untuk memotret sehari-hari dan bahkan untuk memotret *street photography*, seperti [Olly Lang](http://oggsie.com/oggsie) dan [Josh White](https://jtinseoul.wordpress.com). Sebenarnya ada banyak fotografer yang juga menggunakan *smartphone* sebagai kameranya, namun kedua orang inilah yang paling menginspirasi saya untuk fokus memotret *street photography* menggunakan iPhone 5.
+Sampai akhirnya saya banyak mengenal fotografer atau mentor fotografi yang menggunakan iPhone-nya untuk memotret sehari-hari dan bahkan untuk memotret *street photography*, seperti [Olly Lang](http://oggsie.com/oggsie) dan [Josh White](https://jtinseoul.wordpress.com). Sebenarnya ada banyak fotografer yang juga menggunakan *smartphone* sebagai kameranya, namun kedua orang inilah yang paling menginspirasi saya untuk fokus memotret *street photography* menggunakan smartphone.
 
 ### Mengapa iPhone 5?
 
@@ -17,7 +17,7 @@ Selain itu saya memilih iPhone 5 karena aplikasi iOS, atau aplikasi kamera bawaa
 
 ### Fitur iPhone 5
 
-Kamera depan iPhone 5 mampu memotret gambar jpeg dengan resolusi 8 megapiksel dan *focal length* 4.12mm atau setara dengan 33mm (pada sistem 35mm). Pada iPhone 5, pengaturan ISO, shutter speed, kompensasi exposure, white balance dan fokus bisa secara manual namun tidak melalui aplikasi kamera bawaannya. Supaya kamu bisa mengatur secara manual, perlu aplikasi third party seperti [Manual](http://shootmanual.co/).
+Kamera depan iPhone 5 mampu memotret gambar jpeg dengan resolusi 8 megapiksel dan *focal length* 4.12mm atau setara dengan 33mm (pada sistem 35mm). Pada iPhone 5, pengaturan ISO, shutter speed, kompensasi exposure, white balance dan fokus bisa secara manual namun tidak melalui aplikasi kamera bawaannya. Supaya kamu bisa mengatur secara manual pengaturan yang dijelaskan tadi, perlu aplikasi third party seperti [Manual](http://shootmanual.co/).
 
 Hal menarik dari iPhone 5 ini adalah, kamu bisa menggunakan tombol volume pada hapenya dan pada headset apple yang ada mic plus pengaturan volumenya sebagai tombol shutter, ini bermanfaat apabila kamu ingin memotret dari posisi yang agak sulit, seperti dari bawah pinggang, atau di atas kepala. Kamu juga bisa mengurangi *shaking* dengan menggunakan tombol volume headset apple sebagai tombol shutter.
 

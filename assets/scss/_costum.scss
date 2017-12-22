@@ -48,3 +48,8 @@ figcaption {
 blockquote p {
     padding: $small-spacing 0 $small-spacing 0;
 }
+
+img,
+picture {
+  display: block;
+}

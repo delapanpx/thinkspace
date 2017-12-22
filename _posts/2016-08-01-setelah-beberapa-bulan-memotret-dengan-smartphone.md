@@ -13,7 +13,7 @@ Selama memotret menggunakan smartphone itulah saya merasakan ada hal-hal yang me
 
 Perlu diketahui sebelumnya saya menggunakan iPhone 5 untuk memotret, bagi pengguna iPhone 3GS, 4, 4s, 5s, 5c, 6 dan SE masih kurang lebih sama fitur dan cara penggunaannya untuk memotret, tapi untuk smartphone yang lain mungkin fitur yang saya jelaskan agak berbeda, tapi saya kira kekurangan/kesulitan ini cukup umum terjadi pada *mobile photography*. Apa sih kesulitannya? Ada beberapa hal yang bisa saya jelaskan di sini. 
 
-**1. Daya Tahan Baterai yang Payah**
+#### 1. Daya Tahan Baterai yang Payah
 
 Menurut saya ini yang terpenting dalam memotret, yaitu kekuatan bertahannya daya baterai kamera. Hal yang menyedihkan dari smartphone, khususnya smartphone saya adalah daya tahan baterainya. Dalam penggunaan biasa saja dalam seharian saya hampir bisa dua kali mengisi daya. Apalagi kalau dipakai untuk memotret seharian penuh, bisa-bisa saya melakukan isi  daya lebih dari sekali dalam sehari. 
 
@@ -21,7 +21,7 @@ Kalau saya memaksakan aplikasi kamera tetap terbuka, itu bisa jadi blunder juga,
 
 Sebagai cara untuk mengatasi baterai yang lemah adalah, saya menggunakan *airplane mode*, mode ini akan mematikan radio wifi, gsm, dan bluetooth pada smartphone, dan ini memberikan kemampuan baterai yang lebih ketika memotret. Cara yang lain  untuk mengatasi masalah kekurangan daya adalah dengan menyiapkan tambahan daya portable (powerbank). Saya sendiri memang menyiapkan powerbank apalagi ketika sedang melakukan perjalanan, atau sedang liburan. Ini mencegah supaya pikiran tidak stress ketika tidak menemukan colokan listrik saat liburan.
 
-**2. Menjadi Perhatian Banyak Orang**
+#### 2. Menjadi Perhatian Banyak Orang
 
 Siapa bilang memotret menggunakan smartphone kamu jadi seperti ninja? Bisa memotret orang dengan sesuka hatinya tanpa terlihat. Saya pikir masih banyak orang yang tidak nyaman kalau dipotret di tempat umum, apalagi dengan menggunakan kamera smartphone (Kecuali turis, tentunya).
 
@@ -29,7 +29,7 @@ Apalagi karena tidak adanya viewfinder pada smartphone, orang menjadi seperti di
 
 Untuk menghindari suasana awkward seperti itu, saya biasanya memotret dengan mengira-ngira eksposure dan fokusnya dan tinggal jepret tanpa melihat keseluruhan LCD, ini jadi semacam keuntungan memotret menggunakan smartphone. Cara ini juga saya gunakan pada waktu memotret menggunakan Olympus XA4, enaknya kalo XA4 ini menggunakan *zone focussing*, sehingga fokus tetep aman tinggal mengira-ngira jarak saja. Akan saya jelaskan lebih lanjut soal memotret 'mengira-ngira' ini pada tulisan selanjutnya.
 
-**3. Tidak Ada Tombol Shutter Fisik**
+#### 3. Tidak Ada Tombol Shutter Fisik
 
 Inilah yang menjadi kesulitan saya memotret orang yang dinamis menggunakan smartphone. Buat pengguna kamera konvensional seperti saya ini, kehilangan tombol fisik merupakan sebuah gangguan kecil yang sedikit menghambat proses memotret. Karena terkadang saat saya sudah merasa menyentuh tombol shutter pada layar, ternyata foto belum terambil, hal itu bisa terjadi karena jari saya yang basah atau saya tidak menekan di area yang tepat di LCD smartphonenya.
 

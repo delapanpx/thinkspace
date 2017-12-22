@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Saya Hanyalah Penikmat Kopi Murah
-cover: /assets/iamges/saya-hanyalah-penikmat-kopi-murah/kopi.jpg
+cover: /assets/images/saya-hanyalah-penikmat-kopi-murah/kopi.jpg
 description: "Ketika saya lebih memilih ngopi kopi sachetan yang tergolong kopi murahan, kerabat dan kenalan saya malah menilai saya adalah penikmat kopi sejati. "
 ---
 
