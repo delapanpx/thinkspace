@@ -26,5 +26,3 @@ Kebanyakan dari kita malah sibuk mencibir dan menyelamatkan rumahnya sendiri, bu
 
 Ya iyalah, banjir itu kan tanggungjawab pemimpin daerah. Jadi serahkan aja dong pada pempimpin daerah dan juga kepada orang-orang yang memilih mereka di pilkada kemaren. Begitu terus setiap ada pemimpin daerah baru, seolah-olah hal itu adalah tanggungjawab yang menang Pilkada dan para pendukungnya.
 
-{% include image.html name="banjir.jpg" caption="Banjir" %}
-

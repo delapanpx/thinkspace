@@ -21,5 +21,3 @@ Jadi kesimpulannya, yang ganas itu adalah wanita yang berada di gerbong khusus w
 
 Harap cerita ini tidak terlalu dianggap serius. 
 
-{% include image.html name="gerbong-wanita.jpg" caption="Gerbong Khusus Wanita" %}
-
