@@ -20,5 +20,3 @@ Saat saya menikmati kopi Aceh saya yang tanpa gula itu, si Barista bilang, harus
 Karena saya bilang seperti itu, si Barista menjanjikan gratis satu kopi Aceh lagi khusus untuk saya malam itu. Astaga, padahal saya mau cepat-cepat pulang dan main game. Gelas kedua yang dikasi masih sama rasanya dengan yang pertama, cuman karena saya mau buru-buru pulang, saya bilang aja udah pas yang sekarang.
 
 Esoknya saya langsung diare dan panas dingin.
-
-{% include image.html name="kopi.jpg" caption="Mari ngopi murahan" %}
