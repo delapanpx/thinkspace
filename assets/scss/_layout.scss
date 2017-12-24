@@ -95,7 +95,7 @@ hr {
   margin: 0 0 1em 0;
   cursor: pointer;
   letter-spacing: 0.8px;
-  font-size: 20px;
+  font-size: 35px;
   line-height: 28px;
   font-weight: 300;
 
@@ -275,12 +275,6 @@ hr {
     margin-left: -2px !important;
     margin-top: 2px;
     margin-right: 1em;
-  }
-
-  .post-item {
-    border: 1px solid lighten($light-gray-color, 10%);
-    padding: 0 0.5em;
-    background: lighten($light-gray-color, 15%);
   }
 
   .article-title {
