@@ -3,7 +3,6 @@ layout: page
 title: About
 description: "Website ini khusus saya buat untuk melampiaskan hasrat menulis opini saya mengenai apapun untuk saya bagikan kepada orang-orang."
 permalink: /about/
-cover: /assets/images/cucian.jpg
 ---
 
 > Sebuah perkenalan. 
