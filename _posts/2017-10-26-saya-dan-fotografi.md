@@ -2,7 +2,6 @@
 layout: post
 title: Saya dan Fotografi
 description: "Momen yang mengubah hidup saya adalah ketika saya memutuskan membeli kamera DSLR pertama saya di tahun 2013."
-cover: /assets/images/cucian.jpg
 ---
 
 Bicara mengenai fotografi, saya mulai serius dengan fotografi adalah saat saya menggunakan kamera SLR Nikon FM10 waktu kuliah dahulu kala, saat itu saya menghabiskan 2 *exposure* film karena satu roll dibagi beberapa buat anak-anak yang sedang mengikuti *workshop* fotografi dasar. Pada akhir-akhir masa kuliah baru saya bisa mencicipi namanya DSLR, saya meminjam Canon 1000D milik teman saya saat sedang melakukan perjalanan panjang ke nikahan teman di Indramayu.

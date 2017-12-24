@@ -2,7 +2,6 @@
 layout: post
 title: Setelah Beberapa Bulan Memotret Menggunakan Smartphone
 description: "Terkadang tidak memotret lebih baik daripada menyia-nyiakan momen berharga bersama keluarga dengan sibuk memotret"
-cover: /assets/images/cucian.jpg
 ---
 
 Pada awal tahun 2016 ini saya sudah meniatkan untuk fokus memotret menggunakan smartphone. Hasilnya? Menyenangkan, memotret bagi saya tetaplah menyenangkan apapun medianya. Beberapa hasil foto yang saya ambil menggunakan smartphone bisa dilihat di web proyek foto saya yaitu di alamat [jakartasalaryman.tumblr.com](https//jakartasalaryman.tumblr.com).

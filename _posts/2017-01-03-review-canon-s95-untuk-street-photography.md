@@ -2,7 +2,6 @@
 layout: post
 title: Review Canon S95 Untuk Street Photography  
 excerpt: "Lebih nyaman menggunakan kamera yang ukurannya kecil tapi memiliki fitur fotografi yang cukup banyak"
-cover: /assets/images/cucian.jpg
 ---
 
 Mengapa saya mereview kamera ini? Tentu saja karena saya sedang menggunakan kamera ini untuk memotret *street photography*. Setelah saya puas menggunakan *smartphone* iPhone 5 selama tahun 2016 untuk memotret *street photography*.  

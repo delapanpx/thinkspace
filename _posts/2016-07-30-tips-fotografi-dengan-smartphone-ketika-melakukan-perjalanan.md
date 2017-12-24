@@ -2,7 +2,6 @@
 layout: post
 title: Tips Fotografi dengan Smartphone Ketika Melakukan Perjalanan
 description: "Faktor terbesar yang menyebabkan baterai smartphone cepet habis adalah terhubung dengan Internet"
-cover: /assets/images/cucian.jpg
 ---
 
 Setelah saya melakukan perjalanan mudik liburan panjang Tahun baru 2016 dan mudik Lebaran bulan Juli 2016 kemaren, saya jadi kepikiran untuk menulis tips fotografi atau sinematografi saat melakukan perjalanan dengan menggunakan smartphone. Tips ini saya praktikkan sendiri, dan saya berhasil mendokumentasikan perjalanan saya dan keluarga selama di perjalanan dengan menggunakan penghematan penggunaan baterai smartphonenya. Dan saya juga tetap bisa menikmati perjalan dan liburan itu sendiri.

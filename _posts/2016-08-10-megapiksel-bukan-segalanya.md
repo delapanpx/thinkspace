@@ -2,7 +2,6 @@
 layout: post
 title: Megapiksel Bukan Segalanya
 description: "Masih berpikir kalau kualitas foto smartphone kamu kurang bagus?"
-cover: /assets/images/cucian.jpg
 ---
 
 > Masih berpikir kalau kualitas foto smartphone kamu kurang bagus?

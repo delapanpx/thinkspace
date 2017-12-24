@@ -2,7 +2,6 @@
 layout: post
 title: Mudik Lebaran 2016 yang Fenomenal
 description: "Kami sekeluarga terjebak di kota Brebes dari Sahur ke Sahur esok harinya"
-cover: /assets/images/cucian.jpg
 ---
 
 Pada lebaran tahun 2016 ini saya mudik bersama keluarga ke kampung halaman Istri, yaitu di Magelang, Jawa Tengah. Pengalaman buruk mudik sebelumnya ketika liburan panjang tahun baru 2016, sedikitnya sudah kami antisipasi pada mudik Lebaran tahun 2016 ini. Kami mempersiapkan beberapa hal seperti menyiapkan tas-tas kecil yang berisi baju tambahan untuk keperluan tidak terduga supaya kami tidak membongkar-bongkar isi tas di bagasi. Kami juga sudah menyiapkan *smartphone* dengan tambahan daya Dari *Powerbank* untuk mengetahui kondisi lalu lintas.

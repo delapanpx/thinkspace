@@ -2,7 +2,6 @@
 layout: post
 title: Review iPhone 5 Untuk Street Photography
 description: "Dulu saya selalu skeptis terhadap kamera smartphone, apalagi untuk memotret street photography."
-cover: /assets/images/cucian.jpg
 ---
 
 Sebelumnya saya selalu skeptis terhadap kamera *smartphone*, bahkan dulu waktu saya punya iPhone 4, saya tidak terlalu menganggap serius fitur kameranya. Saya hanya menggunakan kamera iPhone 4 dulu untuk memotret dokumen, hal-hal yang perlu diingat, pokoknya waktu itu saya tidak serius menggunakan kamera iPhone 4 untuk memotret sebagai pengganti DSRL, bahkan untuk memotret *street photography*.
