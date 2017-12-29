@@ -2,6 +2,7 @@
 layout: post
 title: Beralih ke Jekyll
 description: "Setelah menggunakan blogspot, entah mengapa saya kangen banget sama Jekyll"
+cover: /assets/images/beralih-ke-jekyll/img.jpg
 ---
 
 > Diedit pada tanggal: 22 Desember 2017
