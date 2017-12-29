@@ -21,7 +21,7 @@ Namun seperti kebiasaan saya, saya engga memakai secara gitu aja template ini, s
 
 Buat pengguna Windows seperti saya, kamu bisa [menginstall jekyll menggunakan command prompt dan chocolatey](https://davidburela.wordpress.com/2015/11/28/easily-install-jekyll-on-windows-with-3-command-prompt-entries-and-chocolatey/ "Easily install Jekyll on Windows with 3 command prompt entries and Chocolatey"). Tujuan menginstall jekyll di windows adalah supaya development bisa dilakukan offline. Cara menginstallnya mudah banget, apalagi buat pengguna windows 10 yang sudah Anniversary Update, karena bisa menggunakan command seperti di linux atau mac.
 
-Pada template The Plain ini, sayangnya belum diatur metanya sedemikina rupa sehingga kalau melakukan sharing post ke facebook dan twitter, tampilannya jadi jelek banget. Untuk itu saya mengubah isi header template ini dengan panduan yang dijelaskan di [artikel show up on social](http://aramzs.github.io/jekyll/social-media/2015/11/11/be-social-with-jekyll.html "How to make your Jekyll site show up on social"). 
+Pada template The Plain ini, sayangnya belum diatur metanya sedemikian rupa sehingga kalau melakukan sharing post ke facebook dan twitter, tampilannya jadi jelek banget. Untuk itu saya mengubah isi header template ini dengan panduan yang dijelaskan di [artikel show up on social](http://aramzs.github.io/jekyll/social-media/2015/11/11/be-social-with-jekyll.html "How to make your Jekyll site show up on social"). 
 
 Saya juga mengganti tampilan separator atau tag `hr` menjadi seperti mirip medium. Entah kenapa saya suka sekali sama separator yang ada di medium.
 
