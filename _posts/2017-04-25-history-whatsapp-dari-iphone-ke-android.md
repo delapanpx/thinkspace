@@ -2,7 +2,7 @@
 layout: post
 title: History Whatsapp dari iPhone ke Android 
 description: "Cara gampang mindahin history whatsapp dari iPhone."
-cover: /assets/images/whatsapp-backup.jpg
+cover: /assets/images/history-whatsapp-dari-iphone-ke-android/whatsapp-backup.jpg
 ---
 
 Punya pengalaman ganti *smartphone*? Kalau saya hampir setiap tahun ada saja cerita mindahin data dari satu hape ke hape yang lain. Maklum, saya orangnya suka ga betahan, alias ketagihan pake gadget yang berbeda-beda. Bukannya sombong, tapi gadget-gadget ini enggak ada yang saya beli baru, kebanyakan saya beli *second condition*. Itu juga *Smartphone* saya yang lama saya jual dulu.
