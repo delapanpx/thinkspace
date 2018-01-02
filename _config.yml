@@ -48,5 +48,5 @@ plugins:
   - bourbon
   - jekyll-paginate
 
-exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md", "Gemfile", "Gemfile.lock", "drafts"]
+exclude: ["vendor", "gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md", "Gemfile", "Gemfile.lock", "drafts"]
 include: ["robots.txt"]
