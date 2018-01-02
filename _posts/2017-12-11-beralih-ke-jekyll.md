@@ -5,7 +5,7 @@ description: "Setelah menggunakan blogspot, entah mengapa saya kangen banget sam
 cover: /assets/images/beralih-ke-jekyll/img.jpg
 ---
 
-> Diedit pada tanggal: 22 Desember 2017
+> Diedit pada tanggal: 2 Januari 2018
 
 Sudah cukup banyak platform untuk ngeblog yang saya cobain, mulai dari [wordpress.com](https://wordpress.com) (subdomain wordpress, free), kemudian pindah ke [blogspot](https://blogger.com), lalu kemudian pindah ke [tumblr](https://tumblr.com), kemudian sempat nyaman ngeblog di [medium](https://medium.com), lalu sempet pindah ke [postach](https://postach.io), terus hosting sendiri [wordpress](https://wordpress.org), lalu kemudian nyobain web statis seperti [Jekyll](https://jekyllrb.com/) dan [Grav](https://getgrav.org/). Kemudian terakhir saya kembali menggunakan Blogspot cukup lama.
 
